@@ -6,6 +6,7 @@ My list of learning resources related to [JavaScript](https://developer.mozilla.
 - [Node.js](#nodejs)
   - [Guides](#guides)
   - [Books](#books)
+  - [Articles](#articles)
 
 ---
 
@@ -22,3 +23,7 @@ My list of learning resources related to [JavaScript](https://developer.mozilla.
 ## Books
 
 * [Shell scripting with Node.js](https://exploringjs.com/nodejs-shell-scripting)
+
+## Articles
+
+* [What you should know to really understand the Node.js Event Loop](https://medium.com/the-node-js-collection/what-you-should-know-to-really-understand-the-node-js-event-loop-and-its-metrics-c4907b19da4c)
