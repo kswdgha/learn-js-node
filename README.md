@@ -7,6 +7,8 @@ My list of learning resources related to [JavaScript](https://developer.mozilla.
   - [🔤 Guides](#-guides)
   - [📚 Books](#-books)
   - [📝 Articles](#-articles)
+- [🟨 JavaScript](#-javascript)
+  - [📚 Books](#-books-1)
 
 ---
 
@@ -22,8 +24,18 @@ My list of learning resources related to [JavaScript](https://developer.mozilla.
 
 ## 📚 Books
 
+* [Exploring JS: JavaScript books for programmers](https://exploringjs.com/) - All books from Dr. Axel Rauschmayer are worth reading.
 * [Shell scripting with Node.js](https://exploringjs.com/nodejs-shell-scripting)
 
 ## 📝 Articles
 
 * [What you should know to really understand the Node.js Event Loop](https://medium.com/the-node-js-collection/what-you-should-know-to-really-understand-the-node-js-event-loop-and-its-metrics-c4907b19da4c)
+
+# 🟨 JavaScript
+*Resources to learn JavaScript.*
+* [mdn-js](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - MDN JavaScript docs.
+
+## 📚 Books
+
+* [Exploring JS: JavaScript books for programmers](https://exploringjs.com/) - All books from Dr. Axel Rauschmayer are worth reading.
+* [JavaScript for impatient programmers](https://exploringjs.com/impatient-js)
