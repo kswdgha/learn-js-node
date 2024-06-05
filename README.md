@@ -4,9 +4,9 @@ My list of learning resources related to [JavaScript](https://developer.mozilla.
 
 - [Learn JS \& Node](#learn-js--node)
 - [🟩 Node.js](#-nodejs)
-  - [🔤 Guides](#-guides)
   - [📚 Books](#-books)
   - [📝 Articles](#-articles)
+  - [▶️ Videos](#️-videos)
 - [🟨 JavaScript](#-javascript)
   - [📚 Books](#-books-1)
 
@@ -16,12 +16,6 @@ My list of learning resources related to [JavaScript](https://developer.mozilla.
 *Resources to learn Node.js.*
 * [nodejs.org](https://nodejs.org) - Official Node.js docs.
 
-## 🔤 Guides
-*Guides are sets of articles related to each other.*
-
-* [Node Hero – Beginner Node.js Tutorial](https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js)
-* [Node at Scale](https://blog.risingstack.com/nodejs-at-scale-npm-best-practices)
-
 ## 📚 Books
 
 * [Exploring JS: JavaScript books for programmers](https://exploringjs.com/) - All books from Dr. Axel Rauschmayer are worth reading.
@@ -30,6 +24,11 @@ My list of learning resources related to [JavaScript](https://developer.mozilla.
 ## 📝 Articles
 
 * [What you should know to really understand the Node.js Event Loop](https://medium.com/the-node-js-collection/what-you-should-know-to-really-understand-the-node-js-event-loop-and-its-metrics-c4907b19da4c)
+
+## ▶️ Videos
+
+* [Everything You Need to Know About Node.js Event Loop - Bert Belder, IBM](https://www.youtube.com/watch?v=PNa9OMajw9w)
+  
 
 # 🟨 JavaScript
 *Resources to learn JavaScript.*
