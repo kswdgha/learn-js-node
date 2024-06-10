@@ -7,6 +7,7 @@ My list of learning resources related to [JavaScript](https://developer.mozilla.
   - [📚 Books](#-books)
   - [📝 Articles](#-articles)
   - [▶️ Videos](#️-videos)
+  - [🧑‍🏫 Courses](#-courses)
 - [🟨 JavaScript](#-javascript)
   - [📚 Books](#-books-1)
 
@@ -28,6 +29,10 @@ My list of learning resources related to [JavaScript](https://developer.mozilla.
 ## ▶️ Videos
 
 * [Everything You Need to Know About Node.js Event Loop - Bert Belder, IBM](https://www.youtube.com/watch?v=PNa9OMajw9w)
+
+## 🧑‍🏫 Courses
+
+* [Understanding Node.js: Core Concepts](https://www.udemy.com/course/understanding-nodejs-core-concepts) - Udemy ($)
   
 
 # 🟨 JavaScript
