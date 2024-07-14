@@ -1,6 +1,6 @@
 # Learn JS & Node
 
-My list of learning resources related to [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) and [Node.js](https://nodejs.org)
+List of resources to learn [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) and [Node.js](https://nodejs.org)
 
 - [Learn JS \& Node](#learn-js--node)
 - [🟩 Node.js](#-nodejs)
