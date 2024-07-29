@@ -23,6 +23,7 @@ _Resources to learn Node.js._
 
 - [Exploring JS: JavaScript books for programmers](https://exploringjs.com/) - All books from Dr. Axel Rauschmayer are worth reading.
 - [Shell scripting with Node.js](https://exploringjs.com/nodejs-shell-scripting)
+- [Node.js for Beginners: A comprehensive guide to building efficient, full-featured web applications with Node.js](https://www.amazon.com/Node-js-Beginners-comprehensive-full-featured-applications/dp/1803245174)
 
 ## 📝 Articles
 
@@ -31,6 +32,7 @@ _Resources to learn Node.js._
 ## ▶️ Videos
 
 - [Everything You Need to Know About Node.js Event Loop - Bert Belder, IBM](https://www.youtube.com/watch?v=PNa9OMajw9w)
+- [How Node.js Bootstraps Itself: 2019 Edition - Joyee Cheung, Igalia](https://www.youtube.com/watch?v=bwiLlcGvFEk)
 
 ## 🧑‍🏫 Courses
 
