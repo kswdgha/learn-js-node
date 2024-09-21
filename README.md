@@ -10,6 +10,7 @@ List of resources to learn [JavaScript](https://developer.mozilla.org/en-US/docs
   - [🧑‍🏫 Courses](#-courses)
 - [🟨 JavaScript](#-javascript)
   - [📚 Books](#-books-1)
+  - [📝 Articles](#-articles-1)
 
 ---
 
@@ -50,3 +51,7 @@ _Resources to learn JavaScript._
 - [Exploring JS: JavaScript books for programmers](https://exploringjs.com/) - All books from Dr. Axel Rauschmayer are worth reading.
 - [JavaScript for impatient programmers](https://exploringjs.com/impatient-js)
 - [The Joy of JavaScript ](https://www.manning.com/books/the-joy-of-javascript)
+
+## 📝 Articles
+
+- [JavaScript. The Core](http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition)
